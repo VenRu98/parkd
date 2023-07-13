@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873187400854",
+    "firebase_url": "https://parkd-50291.firebaseio.com",
+    "project_id": "parkd-50291",
+    "storage_bucket": "parkd-50291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873187400854:android:2d579f91d84ee1a6",
+        "android_client_info": {
+          "package_name": "com.example.parkd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873187400854-eei8jf5h1dse5c70f24fnstvrbh8vg4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLgAK1sh8L4aT7OZq3BW4iYLDtE5mTHLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873187400854-eei8jf5h1dse5c70f24fnstvrbh8vg4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
